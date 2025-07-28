@@ -3,7 +3,8 @@
 //const nota1 = 3.4;
 //const nota2 = 2.3;
 //const nota3 = 4.4;
-
+(let (nota1 + nota2 + nota3) / 3;
+//faltou o prompt pra falar com o usuario
 //let somaDasNotas = nota1 + nota2 + nota3;
 
 //let media = somaDasNotas / 3;
